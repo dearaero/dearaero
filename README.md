@@ -2,48 +2,107 @@
 
 # A E R O
 
-### Product-focused Software Developer
+**IDEAS ARE EASY. MAKING THEM REAL IS THE WORK.**
 
-Building secure, scalable, and thoughtfully designed digital products.
+`PRODUCT ENGINEERING` &nbsp; / &nbsp; `SYSTEM DESIGN` &nbsp; / &nbsp; `CREATIVE TECHNOLOGY`
+
+<br>
+
+<pre>
+╭──────────────────────────────────────╮
+│ AERO                          / 001 │
+├──────────────────────────────────────┤
+│ MINDSET    build with intention      │
+│ PRIORITY   clarity over complexity   │
+│ STANDARD   useful, secure, enduring  │
+│ STATUS     always iterating          │
+╰──────────────────────────────────────╯
+</pre>
 
 </div>
 
+<br>
+
+### A good product is more than a good interface.
+
+It is the quiet work behind every interaction: an architecture that stays understandable, data that remains trustworthy, performance that feels effortless, and details that make the experience feel complete.
+
+I work across those layers — **from the first sketch to the last production edge case.**
+
 ---
 
-## About
+### 01 / THE SYSTEM
 
-I build end-to-end digital products with a strong focus on maintainability,
-security, performance, and user experience.
+```text
+                     ┌──────────────┐
+                     │    PRODUCT   │
+                     └──────┬───────┘
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+         EXPERIENCE      ENGINEERING     EXPLORATION
+             │              │              │
+       React / Next.js  Node.js / SQL   Rust / Tauri
+       TypeScript       Auth / APIs     Unreal Engine
+       UI architecture  Data / Payments AI / Gameplay
+             │              │              │
+             └──────────────┼──────────────┘
+                            │
+                    REAL-WORLD SOFTWARE
+```
 
-- Building modern web products with **TypeScript, React, and Next.js**
-- Designing reliable backend flows, data models, and product infrastructure
-- Exploring cross-platform desktop development with **Rust and Tauri**
-- Prototyping gameplay and AI systems with **Unreal Engine**
-- Interested in turning ambitious ideas into practical, polished products
+My toolkit changes with the problem. The principles don't.
 
-## Current Focus
+<kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>PostgreSQL</kbd> <kbd>Rust</kbd> <kbd>Tauri</kbd> <kbd>Git</kbd>
 
-<table>
-  <tr>
-    <td><strong>Web Products</strong></td>
-    <td>Scalable SaaS architecture, authentication, payments, moderation, and internationalization</td>
-  </tr>
-  <tr>
-    <td><strong>Desktop Apps</strong></td>
-    <td>Fast, lightweight cross-platform applications powered by Rust and Tauri</td>
-  </tr>
-</table>
+---
 
-## Technology Stack
+### 02 / THE WAY I BUILD
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+| | Principle | What it means |
+| :---: | --- | --- |
+| `01` | **Design the whole journey** | A product should make sense beyond its first screen. |
+| `02` | **Make the safe path the default** | Security, permissions, and data integrity belong in the foundation. |
+| `03` | **Keep complexity accountable** | Abstractions should solve real problems, not create new ones. |
+| `04` | **Polish what people actually feel** | Speed, feedback, accessibility, and small details matter. |
+| `05` | **Build for change** | Clear boundaries make iteration possible without rewrites. |
+
+---
+
+### 03 / WHAT'S ON THE WORKBENCH
+
+**WEB SYSTEMS** `//  ACTIVE`  
+Products with real operational needs: accounts, authentication, payments, moderation, localization, and reliable backend workflows.
+
+**DESKTOP SOFTWARE** `//  EXPLORING`  
+Lightweight cross-platform tools where Rust and Tauri bring native capabilities closer to modern interfaces.
+
+**INTERACTIVE EXPERIMENTS** `//  LAB`  
+Prototypes in Unreal Engine, gameplay mechanics, and AI-driven interactions — exploring how software can feel, not just function.
+
+<details>
+<summary><strong>↳ Open the engineering checklist</strong></summary>
+<br>
+
+```text
+[✓] Define the real user problem
+[✓] Make the trade-offs explicit
+[✓] Model the data before the edge cases arrive
+[✓] Treat failure states as first-class flows
+[✓] Measure performance, don't guess
+[✓] Leave the codebase easier to change
+```
+
+</details>
+
+---
+
+<div align="center">
+
+### THE NORTH STAR
+
+**Less noise. Better systems. Products worth using.**
+
+<sub>AERO — THINK CLEARLY. BUILD DEEPLY. KEEP MOVING.</sub>
+
+</div>
