@@ -20,7 +20,7 @@ Values: Performance, polish, UX
 Building: Web & desktop software
 Approach: Design -> Build -> Ship
 Status: Always iterating
-GitHub: github.com/mertoo61
+GitHub: github.com/dearaero
 ```
 
 <p align="left">
